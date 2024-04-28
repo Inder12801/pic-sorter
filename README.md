@@ -4,4 +4,6 @@
 3. Run the sorter.py.
 4. You will get two folders "duplicate" and "non-duplicate" which will have the duplicaate and non duplicate files respectively.
 
-   NOTE: Please name the folders as mentioned in the instructions.
+   NOTE: 1. Please name the folders as mentioned in the instructions.
+         2. Please don't make any sub-folders in the "img_folder1" and "img_folder2".
+   
